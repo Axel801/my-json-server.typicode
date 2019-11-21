@@ -1,61 +1,12 @@
 {
   "posts": [
-    {
-        "id": 1060,
-        "title": "termino y empiezo en otro mes",
-        "description": "",
-        "start_date": "06/08/2019",
-        "end_date": "15/08/2019",
-        "link": {
-            "text": "",
-            "url": ""
-        }
-    },
-    {
-        "id": 1059,
-        "title": "Empieza un mes y termina otro",
-        "description": "qweqweqwe",
-        "start_date": "24/10/2019",
-        "end_date": "01/12/2019",
-        "link": {
-            "text": "",
-            "url": ""
-        }
-    },
-    {
-        "id": 1058,
-        "title": "Empiezo fin de mes y acabo el prox",
-        "description": "qweqweq",
-        "start_date": "30/11/2019",
-        "end_date": "05/12/2019",
-        "link": {
-            "text": "",
-            "url": ""
-        }
-    },
-    {
-        "id": 1061,
-        "title": "Empiezo en el prox mes",
-        "description": "asdasd",
-        "start_date": "01/12/2019",
-        "end_date": "19/12/2019",
-        "link": {
-            "text": "",
-            "url": ""
-        }
-    }
-],
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
   "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
