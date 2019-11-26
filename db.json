@@ -3,22 +3,26 @@
      {
       "title": "Event 2",
       "start": "2019-11-25",
-      "end": "2019-11-25"
+      "end": "2019-11-25",
+      "allDay":true
     },
      {
       "title": "Event 3",
       "start": "2019-11-25",
-      "end": "2019-11-27"
+      "end": "2019-11-27",
+      "allDay":true
     },
      {
       "title": "Event 4",
       "start": "2019-11-25",
-      "end": "2019-11-29"
+      "end": "2019-11-29",
+      "allDay":true
     },
     {
       "title": "Event 5",
       "start": "2019-11-25",
-      "end": "2019-12-25"
+      "end": "2019-12-25",
+      "allDay":true
     }
   ]
 }
