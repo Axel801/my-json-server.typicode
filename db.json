@@ -5,28 +5,28 @@
       "start": "2019-11-25",
       "end": "2019-11-25",
       "allDay":true,
-      "id": "event2"
+      "id": "eventCalendar-2"
     },
      {
       "title": "Event 3",
       "start": "2019-11-25",
       "end": "2019-11-27",
       "allDay":true,
-      "id": "3"
+      "id": "eventCalendar-3"
     },
      {
       "title": "Event 4",
       "start": "2019-11-25",
       "end": "2019-11-29",
       "allDay":true,
-      "id": "4"
+      "id": "eventCalendar-4"
     },
     {
       "title": "Event 5",
       "start": "2019-11-25",
       "end": "2019-12-25",
       "allDay":true,
-      "id": "5"
+      "id": "eventCalendar-5"
     }
   ]
 }
